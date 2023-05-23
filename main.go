@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"golang_rest_api/helper"
+
+	"github.com/muhibuddin12/golang_rest_api/helper"
 )
 
 func main() {
